@@ -64,3 +64,27 @@ C:\Users\TR\Desktop\Yeni klasör (2)\SmartTicket\SmartTicket.Business\obj\Debug\
 C:\Users\TR\Desktop\Yeni klasör (2)\SmartTicket\SmartTicket.Business\bin\Debug\SmartTicket.Commonn.dll
 C:\Users\TR\Desktop\Yeni klasör (2)\SmartTicket\SmartTicket.Business\bin\Debug\SmartTicket.Commonn.pdb
 C:\Users\TR\Desktop\Yeni klasör (2)\SmartTicket\SmartTicket.Business\bin\Debug\SmartTicket.Commonn.dll.config
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Business\bin\Debug\SmartTicket.Business.dll.config
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Business\bin\Debug\SmartTicket.Business.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Business\bin\Debug\SmartTicket.Business.pdb
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Business\bin\Debug\EntityFramework.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Business\bin\Debug\SmartTicket.Commonn.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Business\bin\Debug\SmartTicket.Core.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Business\bin\Debug\SmartTicket.DataAccess.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Business\bin\Debug\SmartTicket.Entities.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Business\bin\Debug\SmartTicket.Commonn.pdb
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Business\bin\Debug\SmartTicket.Commonn.dll.config
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Business\bin\Debug\SmartTicket.Core.pdb
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Business\bin\Debug\SmartTicket.Core.dll.config
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Business\bin\Debug\SmartTicket.DataAccess.pdb
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Business\bin\Debug\SmartTicket.DataAccess.dll.config
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Business\bin\Debug\SmartTicket.Entities.pdb
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Business\bin\Debug\SmartTicket.Entities.dll.config
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Business\bin\Debug\EntityFramework.xml
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Business\obj\Debug\SmartTicket.Business.csprojAssemblyReference.cache
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Business\obj\Debug\SmartTicket.Business.csproj.CoreCompileInputs.cache
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Business\obj\Debug\SmartTicket.Business.csproj.CopyComplete
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Business\obj\Debug\SmartTicket.Business.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Business\obj\Debug\SmartTicket.Business.pdb

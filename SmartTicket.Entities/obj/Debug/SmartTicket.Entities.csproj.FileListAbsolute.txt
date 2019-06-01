@@ -52,3 +52,14 @@ C:\Users\TR\Desktop\Yeni klasör (2)\SmartTicket\SmartTicket.Entities\obj\Debug\
 C:\Users\TR\Desktop\Yeni klasör (2)\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.csproj.CopyComplete
 C:\Users\TR\Desktop\Yeni klasör (2)\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.dll
 C:\Users\TR\Desktop\Yeni klasör (2)\SmartTicket\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.pdb
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Entities\bin\Debug\SmartTicket.Entities.dll.config
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Entities\bin\Debug\SmartTicket.Entities.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Entities\bin\Debug\SmartTicket.Entities.pdb
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Entities\bin\Debug\EntityFramework.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Entities\bin\Debug\EntityFramework.xml
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.csproj.CoreCompileInputs.cache
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.csproj.CopyComplete
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Entities\obj\Debug\SmartTicket.Entities.pdb

@@ -60,6 +60,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\SmartTicket.Commonn\SmartTicket.Common.csproj">
+      <Project>{474f397c-af06-43ed-89f0-78c380c6e99b}</Project>
+      <Name>SmartTicket.Common</Name>
+    </ProjectReference>
     <ProjectReference Include="..\SmartTicket.Core\SmartTicket.Core.csproj">
       <Project>{5e9439e7-b46c-4060-8d97-be0f4adb1d27}</Project>
       <Name>SmartTicket.Core</Name>

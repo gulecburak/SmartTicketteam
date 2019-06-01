@@ -8,7 +8,6 @@ using System.Web.Mvc;
 using System.Web.Security;
 using SmartTicket.Business;
 using SmartTicket.Business.Result;
-using SmartTicket.DataAccess.EntityFramework;
 using SmartTicket.Entities;
 
 namespace SmartTicket.WebAppUI.Controllers

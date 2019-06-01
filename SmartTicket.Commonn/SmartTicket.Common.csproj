@@ -91,15 +91,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="App.cs" />
+    <Compile Include="DefaultCommon.cs" />
     <Compile Include="Helpers\ConfigHelper.cs" />
     <Compile Include="Helpers\MailHelper.cs" />
+    <Compile Include="ICommon.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\SmartTicket.Entities\SmartTicket.Entities.csproj">
-      <Project>{1737B657-DBFF-42ED-99C7-5BD24EE3BA33}</Project>
-      <Name>SmartTicket.Entities</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Connected Services\" />

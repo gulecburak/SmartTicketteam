@@ -36,3 +36,38 @@ C:\Users\TR\Desktop\Yeni klasör (2)\SmartTicket\SmartTicket.Commonn\obj\Debug\S
 C:\Users\TR\Desktop\Yeni klasör (2)\SmartTicket\SmartTicket.Commonn\obj\Debug\SmartTicket.Common.csproj.CopyComplete
 C:\Users\TR\Desktop\Yeni klasör (2)\SmartTicket\SmartTicket.Commonn\obj\Debug\SmartTicket.Commonn.dll
 C:\Users\TR\Desktop\Yeni klasör (2)\SmartTicket\SmartTicket.Commonn\obj\Debug\SmartTicket.Commonn.pdb
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\SmartTicket.Commonn.dll.config
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\SmartTicket.Commonn.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\SmartTicket.Commonn.pdb
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\EntityFramework.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\Newtonsoft.Json.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\SendGrid.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\System.Net.Http.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\System.Web.Helpers.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\System.Web.Mvc.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\System.Web.Razor.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\System.Web.WebPages.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\EntityFramework.xml
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\Newtonsoft.Json.xml
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\SendGrid.pdb
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\SendGrid.xml
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\System.Web.Helpers.xml
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\System.Web.Mvc.xml
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\System.Web.Razor.xml
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\System.Web.WebPages.xml
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\obj\Debug\SmartTicket.Common.csprojAssemblyReference.cache
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\obj\Debug\SmartTicket.Common.csproj.CoreCompileInputs.cache
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\obj\Debug\SmartTicket.Common.csproj.CopyComplete
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\obj\Debug\SmartTicket.Commonn.dll
+C:\Users\burak_000\Source\Repos\gulecburak\SmartTicketteam\SmartTicket.Commonn\obj\Debug\SmartTicket.Commonn.pdb

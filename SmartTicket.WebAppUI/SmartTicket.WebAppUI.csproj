@@ -200,13 +200,13 @@
       <Project>{def6b7d5-6ef7-46c4-8fbb-0508356f5254}</Project>
       <Name>SmartTicket.Business</Name>
     </ProjectReference>
+    <ProjectReference Include="..\SmartTicket.Commonn\SmartTicket.Common.csproj">
+      <Project>{474f397c-af06-43ed-89f0-78c380c6e99b}</Project>
+      <Name>SmartTicket.Common</Name>
+    </ProjectReference>
     <ProjectReference Include="..\SmartTicket.Core\SmartTicket.Core.csproj">
       <Project>{5e9439e7-b46c-4060-8d97-be0f4adb1d27}</Project>
       <Name>SmartTicket.Core</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\SmartTicket.DataAccess\SmartTicket.DataAccess.csproj">
-      <Project>{24248DE8-EA65-4E5A-AF60-FF3D57AD4134}</Project>
-      <Name>SmartTicket.DataAccess</Name>
     </ProjectReference>
     <ProjectReference Include="..\SmartTicket.Entities\SmartTicket.Entities.csproj">
       <Project>{1737b657-dbff-42ed-99c7-5bd24ee3ba33}</Project>

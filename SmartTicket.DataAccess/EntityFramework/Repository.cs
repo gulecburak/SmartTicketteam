@@ -1,4 +1,5 @@
-﻿using SmartTicket.Core.DataAccess;
+﻿using SmartTicket.Commonn;
+using SmartTicket.Core.DataAccess;
 using SmartTicket.Entities;
 using System;
 using System.Collections.Generic;
@@ -39,12 +40,11 @@ namespace SmartTicket.DataAccess.EntityFramework
             if (obj is BaseEntitiy)
             {
                 BaseEntitiy o = obj as BaseEntitiy;
-                DateTime d = DateTime.Now;
+                DateTime now = DateTime.Now;
 
-                o.CreateDate = d;
-                //o.CreatedBy TODO: extention for user
-                o.UpdateDate = d;
-                //o.UpdatedBy TODO: extention for user
+                o.CreateDate = now;
+                o.UpdateDate = now;
+                o.CreatedBy = App.Common.GetCurrentUsername();
 
             }
             return Save();
@@ -69,9 +69,12 @@ namespace SmartTicket.DataAccess.EntityFramework
         {
             if (obj is BaseEntitiy)
             {
-                BaseEntitiy o = new BaseEntitiy();
-                o.UpdateDate = DateTime.Now;
-                //o.updateby TODO: extention for user
+                BaseEntitiy o = obj as BaseEntitiy;
+                DateTime now = DateTime.Now;
+
+                o.CreateDate = now;
+                o.UpdateDate = now;
+                o.UpdatedBy = App.Common.GetCurrentUsername();
 
             }
             return Save();

@@ -7,7 +7,6 @@ using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using SmartTicket.Business;
-using SmartTicket.DataAccess.EntityFramework;
 using SmartTicket.Entities;
 
 namespace SmartTicket.WebAppUI.Areas.Editor.Controllers
